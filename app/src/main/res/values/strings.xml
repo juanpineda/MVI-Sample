@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVI Sample</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="nit">nit</string>
+    <string name="phone">phone</string>
+    <string name="saved">Saved</string>
+    <string name="edited">Edited</string>
+    <string name="incompleteFields">incomplete Fields</string>
+    <string name="deleted">Deleted</string>
+</resources>
